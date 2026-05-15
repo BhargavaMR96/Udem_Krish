@@ -11,3 +11,7 @@ git add .
 git commit -m "initial commit"
 
 git push -u origin main
+
+Any changes made directly on github or want to download the recent version gtom github use :
+
+git pull origin main
